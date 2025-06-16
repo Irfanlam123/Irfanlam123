@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Irfanlam123
-- 👀 I’m interested in ...FrontEnd Development
+- 👀 I’m interested in ...Full Stack & Front-End Development
 - 🌱 I’m currently learning ...Golang+Echo  and React+Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Here is my portfolio Link:https://irfan-dev.vercel.app/ 
