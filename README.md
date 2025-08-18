@@ -6,7 +6,7 @@ I am a front-end and full-stack developer based in Delhi, India.
 Tech Stack
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascipt,tailwindcss,typescript,golang,postgressql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascipt,react,tailwindcss,typescript,golang,postgressql,)](https://skillicons.dev)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Here is my portfolio Link:https://irfan-dev.vercel.app/ 
 <!---
