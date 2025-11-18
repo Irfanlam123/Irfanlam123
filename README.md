@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>💻 Full-Stack Developer</strong> |
+  <strong>💻 Front-end & Full-Stack Developer</strong> |
   <strong>🌱 Continuous Learner</strong> |
   <strong>🧠 Problem Solver</strong>
 </p>
@@ -54,11 +54,17 @@ I enjoy exploring modern tech, learning new tools, and building real-world solut
   <a href="mailto:irfanalam010202@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
   <a href="https://www.linkedin.com/in/irfan-alam-2034a922b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://irfan-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
