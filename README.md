@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>💻 Front-end & Full-Stack Developer</strong> |
+  <strong>💻 Full-Stack Developer</strong> |
   <strong>🌱 Continuous Learner</strong> |
   <strong>🧠 Problem Solver</strong>
 </p>
