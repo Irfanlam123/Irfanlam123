@@ -1,16 +1,36 @@
-Hi! My name is Irfan Alam 😄
+<h1 align="center">👋 Hi, I'm <span style="font-size:45px; font-weight:700;">Irfan Alam</span></h1>
 
+<p align="center">
+  <strong style="font-size:22px;">Front-end & Full-Stack Developer</strong><br/>
+  <strong>Based in Delhi, India</strong>
+</p>
 
-I am a front-end and full-stack developer based in Delhi, India.
+---
 
-Tech Stack
+## 🚀 Tech Stack  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwindcss,java,go,postgres,git" height="75" />
+  </a>
+</p>
 
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascipt,react,tailwindcss,typescript,golang,postgres,)](https://skillicons.dev)
+## ✨ About Me  
+- 💻 Passionate about building clean UI & scalable full-stack applications  
+- 🚀 Experienced in modern front-end + API development  
+- 🌱 Always learning new tech and improving  
+- 🌍 Open to remote opportunities and collaborations  
 
+---
 
-- 📫 How to reach me ...Here is my portfolio Link:https://irfan-dev.vercel.app/ 
-<!---
-Irfanlam123/Irfanlam123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://irfan-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
