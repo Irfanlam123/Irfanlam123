@@ -1,33 +1,64 @@
-<h1 align="center">👋 Hi, I'm <span style="font-size:45px; font-weight:700;">Irfan Alam</span></h1>
+<h1 align="center">👋 Hello, I'm <strong>Irfan Alam</strong></h1>
 
 <p align="center">
-  <strong style="font-size:22px;">Front-end & Full-Stack Developer</strong><br/>
-  <strong>Based in Delhi, India</strong>
+  <img src="https://img.shields.io/badge/FROM-INDIA-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PASSIONATE-DEVELOPER-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20GROWING-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <strong>💻 Front-end & Full-Stack Developer</strong> |
+  <strong>🌱 Continuous Learner</strong> |
+  <strong>🧠 Problem Solver</strong>
 </p>
 
 ---
 
-## 🚀 Tech Stack  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,tailwindcss,java,go,postgres,git" height="75" />
-  </a>
-</p>
+## 🚀 About Me  
+I'm a developer from **Delhi, India**, focused on creating clean UI and building fast, scalable applications.  
+My work blends solid front-end skills with strong backend and API development.  
+I enjoy exploring modern tech, learning new tools, and building real-world solutions.
 
 ---
 
-## ✨ About Me  
-- 💻 Passionate about building clean UI & scalable full-stack applications  
-- 🚀 Experienced in modern front-end + API development  
-- 🌱 Always learning new tech and improving  
-- 🌍 Open to remote opportunities and collaborations  
+## 🧰 Tech Stack  
+
+### **Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESSJS-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+### **Database & Tools**
+<p>
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
 <p align="center">
+  <a href="mailto:irfanalam010202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/irfan-alam-2034a922b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://irfan-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
