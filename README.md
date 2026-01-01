@@ -1,8 +1,4 @@
 <h1 align="center">👋 Hello, I'm <strong>Irfan Alam</strong></h1>
-
-
-## 📫 Connect With Me  
-
 <p align="center">
    <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
@@ -16,8 +12,6 @@
   <a href="https://www.linkedin.com/in/irfan-alam-2034a922b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
- 
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/engineer_ldkaa_0007/?hl=en" target="_blank">
