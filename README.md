@@ -1,10 +1,5 @@
 <h1 align="center">👋 Hello, I'm <strong>Irfan Alam</strong></h1>
 
-<p align="center">
-  Passionate Full Stack Developer | Problem Solver | Tech Enthusiast
-</p>
-
----
 
 ## 📫 Connect With Me  
 
@@ -36,8 +31,4 @@
 
  
 </p>
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
 
